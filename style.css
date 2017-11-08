@@ -1,5 +1,17 @@
 body {
   margin: 0;
+}
+
+header {
+  position: static;
+  height: 20vh;
+  background-color: #333333;
+}
+
+section {
+  position: static;
+  height: 80vh;
   background: url("https://source.unsplash.com/bhAbpxP-7Yw");
   background-size: cover;
+  background-repeat: no-repeat;
 }
