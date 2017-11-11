@@ -15,3 +15,8 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+#logo {
+  width: 30vw;
+  margin: 8vh 0 0 8vh;
+}
