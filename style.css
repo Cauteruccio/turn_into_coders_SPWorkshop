@@ -22,7 +22,7 @@ section {
   margin: 8vh 0 0 8vw;
 }
 
-section div {
+#form_container {
   position: absolute;
   width:100%;
 }
@@ -37,4 +37,12 @@ form {
 input {
   margin:2vh;
   display: block;
+}
+
+#link_container {
+  position:relative;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  margin-top: 34vh
 }
