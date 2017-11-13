@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 0;
 }
 
 header {
@@ -17,6 +18,23 @@ section {
 }
 
 #logo {
-  width: 30vw;
-  margin: 8vh 0 0 8vh;
+  width: 24vw;
+  margin: 8vh 0 0 8vw;
+}
+
+section div {
+  position: absolute;
+  width:100%;
+}
+
+form {
+  position: relative;
+  margin: 30vh auto;
+  width: 21vw;
+  text-align: center;
+}
+
+input {
+  margin:2vh;
+  display: block;
 }
